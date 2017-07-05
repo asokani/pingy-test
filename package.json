@@ -1,0 +1,20 @@
+{
+  "name": "pingy-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pingy serve",
+    "export": "pingy export"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pingy/cli": "^0.6.13",
+    "babel": "^6.23.0",
+    "ejs": "^2.5.6",
+    "node-sass": "^4.5.3",
+    "pingy-cli": "^0.2.1"
+  }
+}
